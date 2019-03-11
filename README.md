@@ -186,6 +186,8 @@ ___
 
 - #### [EN - Google Professional Cloud Security Engineer Beta Exam walkthrough by Dmitri Lerko](http://deploy.live/blog/google-professional-cloud-security-engineer-beta-exam/)
 
+- #### [ES - Cómo rendir un examen beta de Google by Luciano Adonis](https://medium.com/devschile/beta-gcp-royale-d769ed085284)
+
 ### Links Útiles
 - #### [EN - A Security Practitioners Guide to Best Practice GCP Security (Cloud Next '18)](https://www.youtube.com/watch?v=ZQHoC0cR6Qw&list=PLAFY3hrExHFF4Df4TTXlvKCdiKIF7SZz2)
 
