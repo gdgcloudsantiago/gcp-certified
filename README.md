@@ -54,6 +54,9 @@ ___
 
 **Reserva tu Examen:** https://webassessor.com/wa.do?page=publicHome&branding=GOOGLECLOUD
 
+### Casos de Estudio
+- #### [ES - TerramEarth, Vista técnica a los casos de estudio by Felipe Velasquez ](https://medium.com/@felipe.velasquezc/terramearth-vista-t%C3%A9cnica-a-los-casos-de-estudio-de-la-certificaci%C3%B3n-profesional-cloud-architect-218aae2e1999?source=friends_link&sk=443bc7450b1f7988a0862c121433e09e)
+
 ### Experiencias
 - #### [ES - Artículo Como certificarse en 1 mes (Versión 1 del Examen) by Sebastián Moreno](https://www.linkedin.com/pulse/como-transformarse-en-un-google-cloud-certified-1-mes-moreno-e/)
 
@@ -78,6 +81,7 @@ ___
 
 - #### [EN - GCP Cloud Solutions Architecture Reference](http://gcp.solutions)
 
+- #### [ES - Introducción a Kubernetes en GCP by Felipe Velasquez](https://www.linkedin.com/pulse/introducci%C3%B3n-kubernetes-felipe-andres-velasquez-castro/)
 ___
 
 # Google Cloud - Professional Data Engineer
