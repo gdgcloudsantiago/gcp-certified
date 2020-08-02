@@ -9,6 +9,8 @@
 
 Apóyanos en Patreon: https://www.patreon.com/gdgcloudsantiago
 
+Suscríbete en Youtube: https://www.youtube.com/channel/UCPRofFzEHmGAFn8iT05afOA 
+
 
 Meetup Group: https://www.meetup.com/es-ES/gdgcloudsantiago/
 
