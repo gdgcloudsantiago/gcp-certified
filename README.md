@@ -6,16 +6,15 @@
 
 Apóyanos en Patreon: https://www.patreon.com/gdgcloudsantiago
 
-Suscríbete en Youtube: https://www.youtube.com/channel/UCPRofFzEHmGAFn8iT05afOA 
+Suscríbete en Youtube: https://www.youtube.com/gdgcloudsantiago
 
+Escucha nuestros Podcasts: https://anchor.fm/gdgcloudsantiago
 
 Meetup Group: https://www.meetup.com/es-ES/gdgcloudsantiago/
 
 Slack Group: https://join.slack.com/t/gdgcloudscl/shared_invite/zt-8ae4lrzn-LE1OPbSH5ClOUIJFTlI3tw
 
-Youtube: https://www.youtube.com/channel/UCPRofFzEHmGAFn8iT05afOA
-
-Medium: https://medium.com/gdg-cloud-scl
+Medium: https://medium.com/gdgcloudsantiago
 
 Linkedin: https://www.linkedin.com/company/gdgcloudsantiago
 
