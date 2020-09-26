@@ -11,7 +11,7 @@
 - Regístrate en GDG Community para no perderte ninguno de nuestros eventos: https://gdg.community.dev/gdg-cloud-santiago-de-chile
 
 
-## También puedes:
+## También puedes:
 
 
 - Escucha nuestros Podcasts en Anchor.fm: https://anchor.fm/gdgcloudsantiago
